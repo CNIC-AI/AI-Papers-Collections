@@ -4,9 +4,9 @@
 
 ## Category Keywords
 
-* ![](https://img.shields.io/badge/Training-red) Model training
+* ![](https://img.shields.io/badge/Computational_Graph_Optimizing-blue) [计算图编译优化](./graph_optimize.md)
 
-* ![](https://img.shields.io/badge/Inference-blue) Model inference and serving
+* ![](https://img.shields.io/badge/Training-red) Model training
 
 * ![](https://img.shields.io/badge/Hardware-green) Hardware-efficient ML methods
 
