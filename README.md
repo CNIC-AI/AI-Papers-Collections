@@ -4,7 +4,7 @@
 
 ## Category Keywords
 
-* ![](https://img.shields.io/badge/Computational_Graph_Optimizing-blue) [计算图编译优化](./CGO/summary.md)
+* ![](https://img.shields.io/badge/Computation_Graph_Optimizing-blue) [计算图编译优化](./CGO/summary.md)
 
 * ![](https://img.shields.io/badge/Training-red) Model training
 
