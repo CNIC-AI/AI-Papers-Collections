@@ -28,4 +28,6 @@
 
 * ![](https://img.shields.io/badge/Platform-034d0f) ML platform/pipeline/lifecycle
   
-* ![](https://img.shields.io/badge/Others-gray) ...
+* ![](https://img.shields.io/badge/LBOptimizing-00fffff) [Large batch optimizing](./LBOptimizing/summary.md)
+  
+* ![](https://img.shields.io/badge/Others-gray) [...](./Others/summary.md)
